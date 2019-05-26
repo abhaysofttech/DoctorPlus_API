@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb+srv://node-shop:node-shop@node-rest-shop-bul6g.mongodb.net/doctor_plus_test?retryWrites=true",
+    "secret": "nodeauthsecret",
+    "databaseName": "doctor_plus"
+}
